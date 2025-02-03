@@ -1,3 +1,5 @@
+Below is a list of internal IP address ranges for deployment. Do not share this list!
+
 103.21.244.0/22
 
 103.22.200.0/22
@@ -17,3 +19,4 @@
 162.158.0.0/15
 
 172.64.0.0/13
+
