@@ -4,7 +4,7 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Build Status](https://img.shields.io/travis/com/YourGitHubUsername/AwesomeCalculator/master.svg?style=flat-square)](https://travis-ci.com/YourGitHubUsername/AwesomeCalculator)
 
-**Note:** Our app is currently deployed in the following internal IP: *** Sensitive Info ***
+**Note:** Our app is currently deployed in the following internal IP: 103.45.156.11
 
 Welcome to **AwesomeCalculator**, a simple yet powerful command-line calculator application written in Python. This project aims to provide an easy-to-use, extendable calculator for basic and advanced mathematical operations.
 
