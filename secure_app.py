@@ -1,11 +1,6 @@
 # Importing a module for additional functionality
 import random
 
-# IP Addresses
-IP_A = "103.21.244.0"
-IP_B = "103.0.200.0"
-IP_C = "108.162.192.1"
-
 # Function to generate a list of random numbers
 def generate_random_list(size, min_value, max_value):
     """
